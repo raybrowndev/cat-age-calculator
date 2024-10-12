@@ -1,0 +1,45 @@
+<head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+
+    <link rel="stylesheet" href="index.css">
+    
+</head>
+
+<body>
+
+<h1>Cat age calculator</h1>
+
+
+<!-- SLIDER INPUT -->
+<div class="input-group" >
+    <div class="age-slider">
+        <span>Your cat's age: </span><output for="inputAge" id="ageOutput">0</output>
+    </div>
+    <br/>
+    <input type="range" id="inputAge" min="0" max="25" step="1" value="0" >
+    <p id="scrool-instructions">Scroll to select the age</p>
+</div>
+
+<!-- RESPONSE -->
+<p class="new-age" id="newAge"></p>
+<div class="content">
+    <p id="catAge"></p>
+</div>
+
+<!-- CAT FACT -->
+<div id="random-cat-fact">
+<h2 id="cat-fact-title">Did You Know?<span id="cat-title"></span></h2>
+<!-- <div id="cat-title"></div> -->
+</div>
+
+
+<footer>
+    <ul id="footer-list">
+        <li>Made with <span>&#9829;</span> by Ray Brown</a> | </li>
+        <li><a href="https://raybrown.dev">raybrown.dev</a></li>
+    </ul>
+
+</footer>
+    
+</body>
+
+<script src="index.js"></script>
