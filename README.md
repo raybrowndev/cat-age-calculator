@@ -6,9 +6,11 @@
 The Cat Age Calculator is a simple web application that allows users to calculate the age of their cat in human years. It takes the age of the cat as input and provides the equivalent age in human years based on a predetermined life expectancy ratio.
 
 ## Game Preview
+[![Netlify](https://img.shields.io/badge/Live_Site-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://ray-brown-dev-pet-age-calculator.netlify.app/)
+
 <!-- <img src="images/cat-calculator-mockup.png" alt="cat-mockup" width="400"> -->
 <img src="images/cat-age-calculator-gif.gif" alt="cat-mockup" width="400">
-[![Netlify](https://img.shields.io/badge/Live_Site-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://ray-brown-dev-pet-age-calculator.netlify.app/)
+
 
 
 ## Features
