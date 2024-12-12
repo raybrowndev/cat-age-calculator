@@ -9,6 +9,8 @@ The Cat Age Calculator is a simple web application that allows users to calculat
 <!-- <img src="images/cat-calculator-mockup.png" alt="cat-mockup" width="400"> -->
 <img src="images/cat-age-calculator-gif.gif" alt="cat-mockup" width="400">
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://ray-brown-dev-pet-age-calculator.netlify.app/ "Live Site")
+[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://ray-brown-dev-pet-age-calculator.netlify.app/ "Live Site")
+
 
 
 ## Features
